@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7ede382-7ff7-457b-91c2-d450bd7cffd0" name="Changes" comment="Readme">
+    <list default="true" id="f7ede382-7ff7-457b-91c2-d450bd7cffd0" name="Changes" comment="Syntax fix">
+      <change afterPath="$PROJECT_DIR$/mod_list_client.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod_list_server.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
       <workItem from="1730888853552" duration="52000" />
       <workItem from="1730888913403" duration="88000" />
       <workItem from="1730889006325" duration="10612000" />
-      <workItem from="1730904621148" duration="49000" />
+      <workItem from="1730904621148" duration="1135000" />
     </task>
     <task id="LOCAL-00001" summary="Readme">
       <option name="closed" value="true" />
@@ -84,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730900815788</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Syntax fix">
+      <option name="closed" value="true" />
+      <created>1730904888738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730904888738</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,11 +118,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Readme" />
+    <MESSAGE value="Syntax fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Syntax fix" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Minecraft_Mod_Downloader$process.coverage" NAME="process Coverage Results" MODIFIED="1730893483946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Minecraft_Mod_Downloader$main.coverage" NAME="main Coverage Results" MODIFIED="1730904632852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Minecraft_Mod_Downloader$main.coverage" NAME="main Coverage Results" MODIFIED="1730904671338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Minecraft_Mod_Downloader$ui.coverage" NAME="ui Coverage Results" MODIFIED="1730889772943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
