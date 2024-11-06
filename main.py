@@ -11,7 +11,7 @@ def perform_download(inputs):
 
     for mod in inputs["mods"]:
         mod = mod.strip()
-        mod = mod.toLowerCase()
+        mod = mod.lower()
 
         app.update_status(f"Searching {mod} @ {inputs['version']} for {inputs['loader']}...")
 
